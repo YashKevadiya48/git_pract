@@ -1,3 +1,1 @@
 First index 2 line
-Second line in index 2 file
-third line in index2 files
